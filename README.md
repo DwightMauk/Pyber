@@ -6,7 +6,7 @@ Average Fare Per City
 Total Number of Rides Per City
 Total Number of Drivers Per City
 Total City Type 
-
+![scatter](Fig1.png)
 
 Also produced the following three pie charts:
 
