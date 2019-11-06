@@ -11,8 +11,11 @@ Total City Type
 Also produced the following three pie charts:
 
 % of Total Fares by City Type
+![fare](Fig3.png)
+
 % of Total Rides by City Type
 ![ride](Fig2.png)
+
 % of Total Drivers by City Type
 
 
